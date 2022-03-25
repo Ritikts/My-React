@@ -16,6 +16,7 @@
   flex-flow: column-reverse;
   justify-content: flex-start;
   flex: 1;
+  
 }
 
 .expense-item h2 {
@@ -31,9 +32,9 @@
   font-weight: bold;
   color: #fff;
   background-color: #00cc99;
-  border: 1px solid white;
+  border: 2px solid #ffffff90;
   padding: .5rem;
-  border-radius: 12px;
+  border-radius: 8px;
 }
 
 @media (min-width: 580px) {
