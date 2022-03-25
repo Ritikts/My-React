@@ -1,11 +1,11 @@
-*{
-    box-sizing: border-box; }
-    
-
-html{
-    font-family: "Poppins";
+* {
+  box-sizing: border-box;
 }
 
-body{
-    background-color: #eef0f4;
+html {
+  font-family: "Poppins";
+}
+
+body {
+  background-color: #eef0f4;
 }
